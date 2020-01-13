@@ -1,4 +1,4 @@
 public class program1
 {
-  System.out.println("Hello");
+  System.out.println("Hello world");
 }
